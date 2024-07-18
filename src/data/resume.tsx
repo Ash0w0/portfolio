@@ -7,7 +7,7 @@ export const DATA = {
   location: "Gurgaon , India",
   locationLink: "https://www.google.com/maps/place/India",
   description:
-    "Marketer turned Business development specialist with a knack for technical knowledge ",
+    "Marketer turned Business development specialist",
   summary:
     "A dedicated Business Development and Marketing Specialist with over three years of experience across various domains. My journey has taken me from a search engine marketing specialist in a news channel to a marketing role in a blockchain organization, transforming the way these organizations achieve their goals. Currently, I'm a Business Development Manager at HashTrust Technologies Pvt Ltd, where I've successfully conducted staff augmentation, built and managed cold email automated pipelines, and implemented LinkedIn marketing strategies. These efforts have significantly increased our website traffic and client acquisition rates. I pride myself on my negotiation skills and ability to close deals that drive revenue growth and market expansion. My communication and persuasion skills enable me to clearly articulate complex concepts and effectively influence decision-makers. Outside of my professional work, I volunteer with NGOs, helping students from underprivileged areas access education and working on cleanliness and beautification drives. I'm passionate about leveraging my skills to drive further growth and success in a forward-thinking organization. Let's connect and drive the future together!",
   avatarUrl: "/me.png",
@@ -149,7 +149,7 @@ export const DATA = {
       badges: [],
       location: "Delhi",
       title: "Search Engine Optimization Executive",
-      logoUrl: "/baazi.",
+      logoUrl: "/baazi.jpg",
       start: "September 2021",
       end: "December 2021",
       description:
