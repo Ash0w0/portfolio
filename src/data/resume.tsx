@@ -88,7 +88,7 @@ export const DATA = {
         badges: [],
         location: "Gurgaon",
         title: "Business Development Manager",
-        logoUrl: "/hashtrust.png",
+        logoUrl: "/Hashtrustlogo.png",
         start: "September 2022",
         end: "Present",
         description: `
