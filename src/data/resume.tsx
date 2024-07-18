@@ -149,7 +149,7 @@ export const DATA = {
       badges: [],
       location: "Delhi",
       title: "Search Engine Optimization Executive",
-      logoUrl: "/baazi.png",
+      logoUrl: "/baazi.",
       start: "September 2021",
       end: "December 2021",
       description:
